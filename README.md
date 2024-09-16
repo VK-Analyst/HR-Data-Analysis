@@ -1,5 +1,8 @@
-# HR-Data-Analysis
+# HR Data Analysis Query Challenge
+I have been assigned a project titled HR Data Analysis, where I am responsible for writing SQL queries to address the following business scenarios based on the Employee and Department tables in the HR database:
+
 Write a query for the following situations: 
+
 1. To show the names of the employees whose name starts with 'B'.   
 2. To show the names of the employees belonging to the department having department id   
 3. To calculate the number of records in the Employee table.  
